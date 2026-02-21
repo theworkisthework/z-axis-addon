@@ -6,4 +6,4 @@ It also provides a connection to the Stallgaurd output for endstop detection.
 
 ![Render]( https://github.com/theworkisthework/z-axis-addon/blob/main/board_render.png )
 
-![Visualization]( https://github.com/theworkisthework/z-axis-addon/blob/main/addon-placementvisualization.png )
+![Visualization]( https://github.com/theworkisthework/z-axis-addon/blob/main/addon-placement-visualization.png )
