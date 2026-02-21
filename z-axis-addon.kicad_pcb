@@ -7,6 +7,11 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "Z Axis Addon")
+		(date "2026-02-21")
+		(rev "A")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
@@ -595,7 +600,6 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(net 2)
 			(uuid "5df09168-d4cb-4a1c-92ce-acb7bffba1e7")
 		)
 		(fp_circle
@@ -607,7 +611,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 2)
 			(uuid "9484c0a4-778c-48cc-bde7-8aaa7c6c3777")
 		)
 		(fp_text user "H3"
@@ -3590,7 +3593,6 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(net 2)
 			(uuid "5514a65b-db37-437f-9044-6aab51fe7980")
 		)
 		(fp_circle
@@ -3602,7 +3604,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 2)
 			(uuid "0be751dd-a5c4-4609-8097-0a48f0f05615")
 		)
 		(fp_text user "${REFERENCE}"
