@@ -1,6 +1,6 @@
 Released under an MIT licence, no warranty implied or given, use at own risk etc etc.
 
-This adds a Z-axis using a TMC2130 stepper motor. It connects to the ESP32 Plotter Controller via the aux ports (I2C & SPI).
+This adds a Z-axis using a TMC2130 stepper motor. It connects to the [ESP32 Plotter Controller](https://github.com/theworkisthework/ESP32_Plotter_Controller) via the aux ports (I2C & SPI).
 
 It also provides a connection to the Stallgaurd output for endstop detection.
 
